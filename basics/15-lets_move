@@ -1,2 +1,2 @@
 #!/bin/bash
-mr [[:upper:]]* /tmp/u
+mr [:upper:]* /tmp/u
